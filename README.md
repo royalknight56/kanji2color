@@ -17,3 +17,9 @@ console.log(color2Kanji("#FF0000")); // [ '红色' ]
 
 console.log(color2Kanji("#FF0000aa")); // undefined
 ```
+
+## 引流
+
+下面是我的主页，欢迎点击进入，有更多有趣项目
+
+[http://vtron.site/](http://vtron.site/)
