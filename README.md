@@ -23,3 +23,5 @@ console.log(color2Kanji("#FF0000aa")); // undefined
 下面是我的主页，欢迎点击进入，有更多有趣项目
 
 [http://vtron.site/](http://vtron.site/)
+
+前端技术交流 qq 群： 712921211
