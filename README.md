@@ -1,2 +1,17 @@
 # kanji2color
-js库，将汉字颜色转为对应的hex颜色
+
+js 库，将汉字颜色转为对应的 hex 颜色
+
+使用方法：
+
+    npm install kanji2color
+
+    import { kanji2color } from 'kanji2color'
+
+    console.log(kanji2color('红色')) // "#FF0000"
+
+    console.log(color2Kanji('你好')) // undefined
+
+    console.log(color2Kanji('#FF0000')) // [ '红色' ]
+
+    console.log(color2Kanji('#FF0000aa')) // undefined
