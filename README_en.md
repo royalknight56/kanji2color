@@ -1,10 +1,8 @@
 # kanji2color
 
-[english](README_en.md)
+A JavaScript library that converts Chinese characters to corresponding hexadecimal colors.
 
-js 库，将汉字颜色转为对应的 hex 颜色
-
-使用方法：
+Usage:
 
     npm install kanji2color
 
@@ -20,10 +18,8 @@ console.log(color2Kanji("#FF0000")); // [ '红色' ]
 console.log(color2Kanji("#FF0000aa")); // undefined
 ```
 
-## 引流
+## homepage
 
-下面是我的主页，欢迎点击进入，有更多有趣项目
+Here's my homepage. Feel free to visit for more interesting projects:
 
-[http://vtron.site/](http://vtron.site/)
-
-前端技术交流 qq 群： 712921211
+http://vtron.site/
