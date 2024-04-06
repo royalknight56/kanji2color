@@ -9,8 +9,10 @@ function swapKeyAndValue(obj) {
 
 async function pack() {
   const res = fs.readFileSync("config.json");
-
   const colors = JSON.parse(res);
+  Object.keys(colors).forEach((key) => {
+    colors[key] = colors[key].toUpperCase();
+  });
   const swipedColors = swapKeyAndValue(colors);
 
   fs.writeFileSync(
