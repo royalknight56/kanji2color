@@ -1,6 +1,6 @@
 {
   "name": "kanji2color",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "js库，将汉字颜色转为对应的hex颜色",
   "main": "index.cjs.js",
   "module": "index.esm.js",
